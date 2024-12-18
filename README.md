@@ -2,7 +2,7 @@
 
 > 러스트 프로그래밍 언어를 사용하여 베어 메탈(마이크로컨트롤러) 디바이스의 펌웨어를 개발하는 방법에 대한 문서입니다.
 
-This project is developed and maintained by the [Resources team][team].
+이 프로젝트는 [리소스 팀][team]에 의해 개발되고 유지 관리됩니다.
 
 See [the issue tracker] for more details. This book is a living document, and is updated continuously.
 
